@@ -1,6 +1,7 @@
 # Interfacing-Arduino-and-ESP32-using-Python-to-create-a-WEB-Server   
 ### Step 1: Upload the firmware code to Arduino and ESP-32   
 ### Step 2: Run Lm335.py(with Arduino.py in the same folder)   
+Click [here](https://github.com/nithin-k-shine/Interfacing-Arduino-and-ESP32-using-Python-to-create-a-WEB-Server/blob/master/Project_Report.pdf) to learn about the project in detail  
 ## LM335  
 ![image](https://user-images.githubusercontent.com/72448713/176755364-5ef5be5e-a2c2-4d39-9e63-e72f85bc7f78.png)  
 ## LCD display  
